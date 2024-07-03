@@ -2,7 +2,9 @@
 
 Hi!! I’m Wesley Young, but feel free to call me ✨Ilovemath✨ because I’m deeply passionate about math! 😄
 Just kidding—I haven’t devoted my entire life to it, but I actually love it.
+
 Currently, I’m studying at National Taipei University of Technology with major in Information Engineering.
+
 Besides math, I'm passionate about web development and game development.  
 ### Skills:
 
