@@ -1,4 +1,4 @@
-<h2>Wesley Young - Ilovemath</h2>
+<h2>Wesley Young - ilovemath25</h2>
 
 Hi!! I’m Wesley Young, but feel free to call me ✨Ilovemath✨ because I’m deeply passionate about math! 😄
 Just kidding—I haven’t devoted my entire life to it, but I actually love it.
