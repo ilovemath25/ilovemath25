@@ -8,9 +8,9 @@ Currently, I’m studying at National Taipei University of Technology with major
 Besides math, I'm passionate about web development and game development.  
 ### Skills:
 
-- **Web Development:** HTML, CSS, JavaScript
+- **Web Development:** HTML, CSS, JavaScript, Python Flask
 - **Game Development:** Python Pygame
-- **Programming:** Python, C
+- **Programming:** Python, C, C++
 
 Feel free to check out my projects to see what I’ve been working on! :D
 <!---
