@@ -1,4 +1,4 @@
-<h2>Wesley Young - ilovemath25</h2>
+ ## Wesley Young - ilovemath25
 
 Hi!! I’m Wesley Young, but feel free to call me ✨Ilovemath✨ because I’m deeply passionate about math! 😄
 Just kidding—I haven’t devoted my entire life to it, but I actually love it.
@@ -11,6 +11,7 @@ Besides math, I'm passionate about web development and game development.
 - **Web Development:** HTML, CSS, JavaScript, Python Flask
 - **Game Development:** Python Pygame
 - **Programming:** Python, C, C++
+- **Database:** SQL
 
 Feel free to check out my projects to see what I’ve been working on! :D
 <!---
